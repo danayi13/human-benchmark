@@ -7,7 +7,7 @@ npm install open // js open websites
 npm install robotjs // equivalent of pyautogui for JS
 
 ## To Run
-<b>Aim Trainer:</b> TODO <br>
+<b>Aim Trainer:</b> node aim_trainer.js <br>
 <b>Chimp Test:</b> TODO <br>
 <b>Number Memory:</b> TODO <br>
 <b>Reaction Time (Python [SLOW]):</b> python3 reaction_time.py <br>
