@@ -20,7 +20,7 @@ For fun, write scripts that do very well on the human benchmark tests, which can
 <b>Reaction Time (JavaScript [FAST]):</b> `node reaction_time.js` <br>
 <b>Sequence Memory:</b> TODO <br>
 <b>Typing:</b> `python3 typing.py` <br>
-<b>Verbal Memory:</b> TODO <br>
+<b>Verbal Memory:</b> python3.8 verbal_memory.py <br>
 <b>Visual Memory:</b> TODO
 
 ## Notes

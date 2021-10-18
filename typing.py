@@ -35,6 +35,10 @@ def type_fast():
         print("TEXT:")
         print(data)
 
+        # click inside typing box
+        pyautogui.moveTo(500, 450)
+        pyautogui.click()
+
         pyautogui.write(data)  # type out text (really fast), can add interval=0.05 to slow down
 
     # cleanup
